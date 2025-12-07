@@ -21,7 +21,7 @@ export default function App() {
       subtitle: "Visibilidade Imediata",
       oldPrice: "35,00",
       price: "19,90",
-      link: "https://wa.me/5514991564081?text=%F0%9F%93%B2Ol%C3%A1!%20vim%20pelo%20instagram%2C%20quero%20contratar%20o%20Storys%2024H%20por%20R%2419%2C90.", // Link direto
+      link: "https://wa.me/5514991564081?text=%F0%9F%93%B2Ol%C3%A1!%20vim%20pelo%20instagram%2C%20quero%20contratar%20o%20Storys%2024H%20por%20R%2419%2C90", // Link direto
       icon: <Zap className="w-6 h-6 text-red-600" />,
       features: [
         "1 Postagem nos Stories",
@@ -38,7 +38,7 @@ export default function App() {
       subtitle: "Destaque no Feed",
       oldPrice: "60,00",
       price: "29,90",
-      link: "https://wa.me/5514991564081?text=%F0%9F%93%B2Ol%C3%A1!%20vim%20pelo%20instagram%2C%20quero%20contratar%20o%20Feed%20Timeline%20por%20R%2429%2C90.", // Link direto
+      link: "https://wa.me/5514991564081?text=%F0%9F%93%B2Ol%C3%A1!%20vim%20pelo%20instagram%2C%20quero%20contratar%20o%20Feed%20Timeline%20por%20R%2429%2C90", // Link direto
       icon: <LayoutGrid className="w-6 h-6 text-red-600" />,
       features: [
         "1 Post no Feed (Foto/Vídeo)",
@@ -78,7 +78,7 @@ export default function App() {
       subtitle: "Visibilidade Imediata",
       oldPrice: "35,00",
       price: "19,90",
-      link: "https://wa.me/5514991564081?text=%F0%9F%93%B2Ol%C3%A1!%20vim%20pelo%20instagram%2C%20quero%20contratar%20o%20Storys%2024H%20por%20R%2419%2C90.", // Link direto
+      link: "https://wa.me/5514991564081?text=%F0%9F%93%B2Ol%C3%A1!%20vim%20pelo%20instagram%2C%20quero%20contratar%20o%20Storys%2024H%20por%20R%2419%2C90", // Link direto
       icon: <Zap className="w-6 h-6 text-red-600" />,
       features: [
         "1 Postagem nos Stories",
@@ -559,3 +559,4 @@ export default function App() {
   );
 
 }
+
